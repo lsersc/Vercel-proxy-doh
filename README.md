@@ -27,24 +27,6 @@
 2. 在 [Vercel 控制台](https://vercel.com/new) 中导入该仓库。
 3. 框架预设选择 "Other"，点击部署。
 
-### 3. 配置环境变量 (可选)
-
-如果您需要自定义路径映射，请在 Vercel 项目设置的 **Environment Variables** 中添加以下变量：
-
--   **Key**: `DOMAIN_MAPPINGS`
--   **Value**: (您的 JSON 配置字符串)
-
-示例值：
-```json
-{
-  "/google": {
-    "targetDomain": "dns.google",
-    "pathMapping": {
-      "/query-dns": "/dns-query"
-    }
-  }
-}
-```
 
 ## 验证部署
 
