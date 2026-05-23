@@ -1,3 +1,4 @@
+###默认使用Google和Cloudflare的DoH，对应`/google/query-dns`和`/cloudflare/query-dns`
 
 ## 部署步骤
 
@@ -35,6 +36,3 @@
 测试转发功能：
 `https://your-project.vercel.app/google/query-dns?name=example.com`
 
----
-
-*由 Manus AI 生成*
