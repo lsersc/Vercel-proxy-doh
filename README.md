@@ -1,4 +1,4 @@
-###默认使用Google和Cloudflare的DoH，对应`/google/query-dns`和`/cloudflare/query-dns`
+### 默认使用Google和Cloudflare的DoH，对应`/google/query-dns`和`/cloudflare/query-dns`
 
 ## 部署步骤
 
