@@ -8,7 +8,7 @@
 ```text
 .
 ├── api/
-│   └── doh-proxy.js    # 修改后的核心逻辑代码
+│   └── index.js    # 修改后的核心逻辑代码
 ├── vercel.json         # Vercel 配置文件
 └── package.json        # (可选) 如果有依赖项
 ```
