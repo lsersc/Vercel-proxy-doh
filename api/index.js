@@ -26,7 +26,7 @@ const DEFAULT_PATH_MAPPINGS = {
     },
   },
   '/cloudflare': {
-    targetDomain: 'security.cloudflare-dns.com',
+    targetDomain: 'k5o6m57goc.cloudflare-gateway.com',
     pathMapping: {
       '/query-dns': '/dns-query',
     },
